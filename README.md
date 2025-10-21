@@ -16,4 +16,20 @@
   width="200px" height="200px"></td>
   </tr>
 </table>
+#EJERCICIOS PRACTICOS DE LISTAS
+##ACTIVIDAD 
+<table>
+  <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Ejercicios%20Practicos%20de%20listas/Captura%20de%20pantalla%202025-10-20%20204810.png?raw=true"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Ejercicios%20Practicos%20de%20listas/Captura%20de%20pantalla%202025-10-20%20204818.png?raw=true"
+  width="200px" height="200px"></td>
+  </tr>
 
+    <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Ejercicios%20Practicos%20de%20listas/Captura%20de%20pantalla%202025-10-20%20204826.png?raw=true"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Ejercicios%20Practicos%20de%20listas/Captura%20de%20pantalla%202025-10-20%20204839.png?raw=true"
+  width="200px" height="200px"></td>
+  </tr>
+</table>
