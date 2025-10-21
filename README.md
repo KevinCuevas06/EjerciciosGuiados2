@@ -49,10 +49,11 @@
 </table>
 #EJERCICIO DE PILA CON VisuAlgo
 <table>
-  <tr>
-  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo/Captura%20de%20pantalla%202025-10-17%20134642.png?raw=true"></td>
-      width="200px" height="200px"></td>
-      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo/Captura%20de%20pantalla%202025-10-17%20134948.png?raw=true"
+  <tr><img
+src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo/Captura%20de%20pantalla%202025-10-17%20134642.png?raw=true"
+  width="200px" height="200px"></td>
+  </tr>
+    <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo/Captura%20de%20pantalla%202025-10-17%20134948.png?raw=true"
   width="200px" height="200px"></td>
   </tr>
     <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo/Captura%20de%20pantalla%202025-10-17%20135745.png?raw=true"
