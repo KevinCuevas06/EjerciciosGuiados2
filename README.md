@@ -33,7 +33,7 @@
   width="200px" height="200px"></td>
   </tr>
 </table>
-#EJERCICIOS VISUALGO
+#EJERCICIOS NEARDPOD
 <table>
   <tr>
   <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Visualgo/Captura%20de%20pantalla%202025-10-20%20215412.png?raw=true"
