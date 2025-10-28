@@ -70,3 +70,22 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
 </table>
 
+#Ejercicios Guiados 
+##Ordenamiento burbuja
+
+<table>
+  <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/OrdenamientoBurbuja/338948d2-8b47-4236-8935-ee384361032e.jpg?raw=true"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/OrdenamientoBurbuja/5fda5fba-ae61-4c70-92f0-d32ac99ffd7c.jpg?raw=true"
+  width="200px" height="200px"></td>
+  </tr>
+
+    <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/OrdenamientoBurbuja/a3498e1d-c782-46ae-8318-8cb9d165eee0.jpg?raw=true"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/OrdenamientoBurbuja/f01e02c1-9f0c-4df4-ab9f-19725be7c9cc.jpg?raw=true"
+  width="200px" height="200px"></td>
+  </tr>
+</table>
+
