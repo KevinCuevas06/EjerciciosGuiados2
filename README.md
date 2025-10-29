@@ -77,7 +77,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
     <th>Enlace</th>
   </tr>
   <tr>
-    <td>Ejercicio PDF</td>
+    <td>Ejercicio NEATBEANS</td>
     <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/tree/main/ColasTarea">Ver archivo</a></td>
   </tr>
 </table>
