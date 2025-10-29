@@ -70,7 +70,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
 </table>
 
-#NOMNRE
+#EJERCICIO DE COLAS
 <table>
   <tr>
     <th>Archivo</th>
@@ -81,7 +81,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
     <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/tree/main/ColasTarea">Ver archivo</a></td>
   </tr>
 </table>
-
+##EJERCICIOS NEARDPOND
 <table>
   <tr>
   <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20133632.png"
