@@ -78,7 +78,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
   <tr>
     <td>Ejercicio PDF</td>
-    <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/ColasTarea.zip">Ver archivo</a></td>
+    <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/tree/main/ColasTarea">Ver archivo</a></td>
   </tr>
 </table>
 
