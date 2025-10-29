@@ -97,6 +97,17 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   width="200px" height="200px"></td>
   </tr>
 </table>
+##VIDEO 
+<table>
+  <tr>
+    <th>Video</th>
+    <th>Enlace</th>
+  </tr>
+  <tr>
+    <td>Demostración</td>
+    <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/WhatsApp%20Video%202025-10-28%20at%208.12.15%20PM.mp4">Ver video</a></td>
+  </tr>
+</table>
 
 
 #Ejercicios Guiados 
