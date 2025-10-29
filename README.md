@@ -82,6 +82,22 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
 </table>
 
+<table>
+  <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20133632.png"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20134125.png"
+  width="200px" height="200px"></td>
+  </tr>
+
+    <tr>
+  <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20135041.png"
+  width="200px" height="200px"></td>
+      <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20135925.png"
+  width="200px" height="200px"></td>
+  </tr>
+</table>
+
 
 #Ejercicios Guiados 
 ##Ordenamiento burbuja
