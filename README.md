@@ -73,14 +73,15 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
 #NOMNRE
 <table>
   <tr>
-    <th>Proyecto</th>
-    <th>Descarga</th>
+    <th>Archivo</th>
+    <th>Enlace</th>
   </tr>
   <tr>
-    <td>NetBeans App</td>
+    <td>Ejercicio PDF</td>
     <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/ColasTarea.zip">Ver archivo</a></td>
   </tr>
 </table>
+
 
 #Ejercicios Guiados 
 ##Ordenamiento burbuja
