@@ -95,7 +95,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
   <tr>
     <td>Ejercicio PDF</td>
-    <td><a href="https://github.com/usuario/repositorio/raw/main/archivo.pdf" target="_blank">Ver archivo</a></td>
+    <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT1%20Ejercicio%20de%20Ordenamiento%20por%20Intercambio%20con%20Tarjetas1.pdf">Ver archivo</a></td>
   </tr>
 </table>
 
