@@ -1,5 +1,5 @@
-#Ejercicios Guiados 2
-##Actividad
+# Ejercicios Guiados 2
+## Actividad
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
   width="200px" height="200px"></td>
   </tr>
 </table>
-#EJERCICIOS NEARDPOD
+# EJERCICIOS NEARDPOD
 <table>
   <tr>
   <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/Visualgo/Captura%20de%20pantalla%202025-10-20%20215412.png?raw=true"
@@ -47,7 +47,7 @@
   width="200px" height="200px"></td>
   </tr>
 </table>
-#EJERCICIO DE PILA CON VisuAlgo
+# EJERCICIO DE PILA CON VisuAlgo
 <table>
   <tr>
     <img
@@ -70,7 +70,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
   </tr>
 </table>
 
-#EJERCICIO DE COLAS
+# EJERCICIO DE COLAS
 <table>
   <tr>
     <th>Archivo</th>
@@ -81,7 +81,7 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
     <td><a href="https://github.com/KevinCuevas06/EjerciciosGuiados2/tree/main/ColasTarea">Ver archivo</a></td>
   </tr>
 </table>
-##EJERCICIOS NEARDPOND
+## EJERCICIOS NEARDPOND
 <table>
   <tr>
   <td><img src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/imagenesNEARDPOND/Captura%20de%20pantalla%202025-10-24%20133632.png"
@@ -111,8 +111,8 @@ src="https://github.com/KevinCuevas06/EjerciciosGuiados2/blob/main/U2ACT2%20Ejer
 
 
 
-#Ejercicios Guiados 
-##Ordenamiento burbuja
+# Ejercicios Guiados 
+## Ordenamiento burbuja
 
 <table>
   <tr>
